@@ -39,12 +39,6 @@ Under the Gaussian-likelihood counterfactual, redistributing the COP29 USD 300bn
 
 Final merged panel: 152 countries, USD 761.9 billion total finance.
 
-## Repository contents
-
-```
-├── ST451_63046_Report.pdf       Final 10-page article
-├── ST451_63046_executed_file.ipynb   Full notebook with executed outputs
-```
 Global seed = 42 throughout. PyMC 5.27, ArviZ 0.23.
 
 ## References
